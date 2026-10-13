@@ -5,6 +5,8 @@ A Pong game for unexpanded MSX1, running entirely in SCREEN 0
 characters. Plain 16KB ROM cartridge, no mapper. Same look and feel as
 [c0man](https://github.com/TFHFony/c0man): green on black, `COLOR 2,1,1`.
 
+▶ **[Play it online](https://www.file-hunter.com/Homebrew/?id=p0ng)**
+
 ## Screenshots
 
 | Title screen | 1 player | 2 players | 2-player win |
